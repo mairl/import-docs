@@ -8,7 +8,7 @@ To use the **M2IF - Magento 2 Import Framework**, one of three existing **M2IF**
 ## Case 1: **M2IF** standalone installation
 * Use of the **M2IF** tool to import csv files to ***Magento***.
 * Install **M2IF** as a standalone composer Project independent to ***Magento*** to a seperate location.
-* e.g. extend the **M2IF** functionalit to fit the needs for a specific data import to ***Magento***.
+* e.g. extend the **M2IF** functionality to fit the needs for a specific data import to ***Magento***.
 * In a Docker environment, the use case could be to run **M2IF** in additional containers.
 
 #### Requirements
