@@ -11,6 +11,4 @@ visible: true
 * This repository, based on Symfony Console, uses the the package [M2IF](https://github.com/techdivision/import) and provides a command line tool with import functionality for ***Magento 2*** standard CSV files.
 
  
-> The following description anticipates that the target system for the import is ***Magento 2.3.x***,  which is supported by the versions **M2IF 3.x**. 
-
-> For ***Magento 2.2.x***, the **M2IF** version 2.2.x **HAS** must be used.
+> The following description anticipates that the target system for the import is ***Magento 2.3.x***,  which is supported by the versions **M2IF 3.x**. For ***Magento 2.2.x***, the **M2IF** version 2.2.x **HAS** must be used.

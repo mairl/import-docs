@@ -14,7 +14,7 @@
   * import:create:ok-file
 * [ ] Beschreibung wie Dateinamen aufgebaut sein müssen und wie ich das Schema anpassen kann mit Beispielen, siehe [Blog Post](https://m2if.com/blog/sample-data-import)
 * [ ] [Blog Post](https://m2if.com/blog/sample-data-import) hinsichtlich neuen Default Dateinamen (product-import anstatt magento-import) überarbeiten
-* [ ] Beschreibung der .ok File Funktionalität
+* [] Beschreibung der .ok File Funktionalität
   * Welche Möglichkeiten gibt es
   * Was muss rein
   * Hat die Reihenfolge der Dateien in der .ok Datei eine Auswirkung auf die Ausführungs-Reihenfolge?
